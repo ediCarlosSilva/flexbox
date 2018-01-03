@@ -1,0 +1,15 @@
+div.grid {
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+div.box {
+    border: 1px solid blue;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    width: 30%;
+    margin: 1%;
+}
